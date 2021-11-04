@@ -1,7 +1,5 @@
 ---
 title: "Assignment1"
-author: "Tony"
-date: ""
 output: html_document
 ---
 
